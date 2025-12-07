@@ -31,17 +31,13 @@ Gender-Customer gender
 
 Loyalty Level-Customer loyalty tier 
 
-Cost-Product cost to store
-
 Stock-Units available in inventory
 
 Category-Product category
 
-Sub-Category-Product sub-category
-
 Quantity-Units sold
 
-Payment Type-Mode of payment (Cash, Card, UPI, etc.)
+Payment Type-Mode of payment
 
 Discount-Discount applied to the order
 
