@@ -30,7 +30,11 @@ Bean, Jones and Park store outperform others showing location-specific demand.
 
 Low stock levels in high-demand products can lead to missed sales opportunities.
 
+# Conclusions
 
+The Sales Performance Analysis Dashboard provides a holistic view of business performance, covering revenue, profit, inventory, and regional trends.
+
+The analysis reveals that profitability is driven by a small number of high-performing categories, products, and online store channels, while certain regions and products underperform due to operational and demand-related factors.
 
 
 
