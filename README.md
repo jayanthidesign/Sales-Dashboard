@@ -8,9 +8,9 @@ This dataset contains detailed information about customers, products, and store 
 
 # Tools Used
 
-Excel / SQL – Data cleaning and transformation
+Excel  – Data cleaning and transformation
 
-Power BI / Tableau – Dashboard visualization
+Power BI  – Dashboard visualization
 
 # Key Insights
 
@@ -30,7 +30,7 @@ Bean, Jones and Park store outperform others showing location-specific demand.
 
 Low stock levels in high-demand products can lead to missed sales opportunities.
 
-# Descriptive Analysis
+
 
 
 
